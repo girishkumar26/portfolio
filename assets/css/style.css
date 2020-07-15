@@ -22,9 +22,6 @@ body::before {
 @media (min-width: 720px) {
   body::before {
     background-attachment: fixed;
-    background-size: cover;
-    background: center;
-
   }
 }
 
